@@ -1,20 +1,20 @@
-,Neighborhood, MedianRent ,Latitude,Longitude
-0,West Harlem,"2,200.00",40.8189,-73.9522
-1,Central Harlem,"2,025.00",40.8089,-73.9482
-2,East Harlem,"2,150.00",40.7957,-73.9389
-3,Upper West Side,"3,225.00",40.787,-73.9754
-4,Upper East Side,"2,850.00",40.7736,-73.9566
-5,Midtown,"3,450.00",40.7549,-73.984
-6,Hell's Kitchen,"3,410.00",40.7638,-73.9918
-7,Garment District,"3,690.00",40.7547,-73.9916
-8,Murry Hill,"3,600.00",40.7479,-73.9757
-9,Chelsea,"3,850.00",40.7465,-74.0014
-10,Gramercy Park,"3,325.00",40.7368,-73.9845
-11,West Village,"3,710.00",40.7347,-74.0048
-12,Greenwich Village,"3,800.00",40.7336,-74.0027
-13,East Village,"2,690.00",40.7265,-73.9815
-14,Soho,"3,430.00",40.7233,-74.003
-15,Lower East Side,"2,850.00",40.715,-73.9843
-16,Tribeca,"4,150.00",40.7163,-74.0086
-17,Battery Park,"3,525.00",40.7116,-74.0158
-18,Financial District,"3,470.00",40.7077,-74.0083
+,Neighborhood, Median Rent ,Latitude,Longitude
+0,West Harlem,2200.00,40.8189,-73.9522
+1,Central Harlem,2025.00,40.8089,-73.9482
+2,East Harlem,2150.00,40.7957,-73.9389
+3,Upper West Side,3225.00,40.787,-73.9754
+4,Upper East Side,2850.00,40.7736,-73.9566
+5,Midtown,3450.00,40.7549,-73.984
+6,Hell's Kitchen,3,410.00,40.7638,-73.9918
+7,Garment District,3690.00,40.7547,-73.9916
+8,Murry Hill,3600.00,40.7479,-73.9757
+9,Chelsea,3850.00,40.7465,-74.0014
+10,Gramercy Park,3325.00,40.7368,-73.9845
+11,West Village,3710.00,40.7347,-74.0048
+12,Greenwich Village,3800.00,40.7336,-74.0027
+13,East Village,2690.00,40.7265,-73.9815
+14,Soho,3430.00,40.7233,-74.003
+15,Lower East Side,2850.00,40.715,-73.9843
+16,Tribeca,4150.00,40.7163,-74.0086
+17,Battery Park,3525.00,40.7116,-74.0158
+18,Financial District,3470.00,40.7077,-74.0083
